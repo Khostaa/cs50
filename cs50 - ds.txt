@@ -1,0 +1,19 @@
+Typedef
+Data Structure
+Queue
+Stack
+Jack learns about queue and stack - video
+List
+structure
+pointer
+(*NewNode).data == NewNode -> data 
+(*NewNode).next == NewNode -> next
+Linked list - intro
+self referential structure
+traversing
+insertion at beginning
+insertion at end
+Hashing
+Hash table
+Hash function
+Collisions
